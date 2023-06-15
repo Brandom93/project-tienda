@@ -222,6 +222,9 @@ h3 {font-size: 2.4rem;}
     text-align: center;
     appearance: none;
 }
+.formulario__campo option{
+    color: var(--negro);
+}
 .formulario__campo::placeholder{
     color: var(--blanco);
 }
